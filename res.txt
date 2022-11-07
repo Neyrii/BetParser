@@ -1,0 +1,529 @@
+
+> BetParser@1.0.0 dev
+> ts-node-esm src/index.ts
+
+[ - Kristiansund : 1.26 - Draw : 4.9 - Jerv FK : 6.5 - ] -> PREMATCH
+[ - Lillestrøm : 1.44 - Draw : 4 - Ham-Kam : 4.9 - ] -> PREMATCH
+[ - Strømsgodset : 4.7 - Draw : 4.5 - Bodø/Glimt : 1.4 - ] -> PREMATCH
+[ - Rosenborg : 1.41 - Draw : 4.6 - Sarpsborg : 5.1 - ] -> PREMATCH
+[ - Sandefjord : 1.9 - Draw : 3.55 - Haugesund : 2.95 - ] -> PREMATCH
+[ - Tromsø : 1.66 - Draw : 3.55 - Aalesunds : 3.85 - ] -> PREMATCH
+[ - Viking : 1.64 - Draw : 3.7 - Odds : 3.75 - ] -> PREMATCH
+[ - Vålerenga : 2.55 - Draw : 3.65 - Molde : 2.05 - ] -> PREMATCH
+[ - A. Mineiro : 1.49 - Draw : 3.75 - Botafogo RJ : 6 - ] -> PREMATCH
+[ - A. Mineiro : 1.35 - Draw : 4 - Cuiaba MT : 7.25 - ] -> PREMATCH
+[ - Fluminense : 1.32 - Draw : 4.4 - Goias : 7.75 - ] -> PREMATCH
+[ - Sao Paulo : 1.9 - Draw : 3.2 - Internacional : 3.55 - ] -> PREMATCH
+[ - Palmeiras : 1.39 - Draw : 4.2 - America Mineiro MG : 6 - ] -> PREMATCH
+[ - Botafogo RJ : 2.05 - Draw : 3.1 - Santos : 3.15 - ] -> PREMATCH
+[ - Juventude RS : 5.2 - Draw : 3.85 - Flamengo : 1.5 - ] -> PREMATCH
+[ - Fortaleza CE : 1.7 - Draw : 3.4 - Bragantino SP : 4.2 - ] -> PREMATCH
+[ - Atletico GO : 2.2 - Draw : 3.1 - Atletico Paranaense : 2.95 - ] -> PREMATCH
+[ - Avai  : 3.7 - Draw : 3.15 - Ceara CE : 1.88 - ] -> PREMATCH
+[ - Coritiba : 2.75 - Draw : 2.9 - Corinthians : 2.45 - ] -> PREMATCH
+[ - Bragantino SP : 2.4 - Draw : 3.1 - Fluminense : 2.4 - ] -> PREMATCH
+[ - Santos : 2.3 - Draw : 3.15 - Fortaleza CE : 2.5 - ] -> PREMATCH
+[ - Internacional : 2.15 - Draw : 3.1 - Palmeiras : 2.75 - ] -> PREMATCH
+[ - Qatar : 3.55 - Draw : 3.25 - Ecuador : 2.1 - ] -> PREMATCH
+[ - Senegal : 5.9 - Draw : 3.65 - Netherlands : 1.62 - ] -> PREMATCH
+[ - Qatar : 3.75 - Draw : 3.25 - Senegal : 2 - ] -> PREMATCH
+[ - Netherlands : 1.56 - Draw : 4 - Ecuador : 5.5 - ] -> PREMATCH
+[ - Netherlands : 1.24 - Draw : 4.5 - Qatar : 8 - ] -> PREMATCH
+[ - Ecuador : 2.7 - Draw : 2.9 - Senegal : 2.3 - ] -> PREMATCH
+[ - England : 1.28 - Draw : 5.2 - Iran : 12.5 - ] -> PREMATCH
+[ - USA : 2.45 - Draw : 3.05 - Wales : 3.1 - ] -> PREMATCH
+[ - England : 1.64 - Draw : 3.7 - USA : 5.2 - ] -> PREMATCH
+[ - Wales : 2.15 - Draw : 3.05 - Iran : 3.6 - ] -> PREMATCH
+[ - Wales : 5.2 - Draw : 3.55 - England : 1.49 - ] -> PREMATCH
+[ - Iran : 3.1 - Draw : 3.05 - USA : 2 - ] -> PREMATCH
+[ - Argentina : 1.14 - Draw : 7.5 - Saudi Arabia : 21 - ] -> PREMATCH
+[ - Mexico : 2.7 - Draw : 3.15 - Poland : 2.7 - ] -> PREMATCH
+[ - Argentina : 1.54 - Draw : 3.9 - Mexico : 6.25 - ] -> PREMATCH
+[ - Poland : 1.58 - Draw : 3.85 - Saudi Arabia : 5.8 - ] -> PREMATCH
+[ - Poland : 4.1 - Draw : 3.7 - Argentina : 1.58 - ] -> PREMATCH
+[ - Saudi Arabia : 5.5 - Draw : 3.65 - Mexico : 1.45 - ] -> PREMATCH
+[ - France : 1.23 - Draw : 6 - Australia : 12.5 - ] -> PREMATCH
+[ - Denmark : 1.4 - Draw : 4.5 - Tunisia : 8 - ] -> PREMATCH
+[ - France : 1.92 - Draw : 3.35 - Denmark : 4.1 - ] -> PREMATCH
+[ - Tunisia : 2.95 - Draw : 2.95 - Australia : 2.55 - ] -> PREMATCH
+[ - Tunisia : 11 - Draw : 4.7 - France : 1.19 - ] -> PREMATCH
+[ - Australia : 5.6 - Draw : 3.3 - Denmark : 1.5 - ] -> PREMATCH
+[ - Spain : 1.19 - Draw : 6.5 - Costa Rica : 16 - ] -> PREMATCH
+[ - Germany : 1.4 - Draw : 4.8 - Japan : 7.5 - ] -> PREMATCH
+[ - Spain : 2.5 - Draw : 3.25 - Germany : 2.8 - ] -> PREMATCH
+[ - Japan : 1.84 - Draw : 3.3 - Costa Rica : 4.5 - ] -> PREMATCH
+[ - Japan : 7.75 - Draw : 4.6 - Spain : 1.25 - ] -> PREMATCH
+[ - Costa Rica : 8.5 - Draw : 4.6 - Germany : 1.23 - ] -> PREMATCH
+[ - Belgium : 1.33 - Draw : 5.2 - Canada : 9 - ] -> PREMATCH
+[ - Morocco : 4.6 - Draw : 3.3 - Croatia : 1.86 - ] -> PREMATCH
+[ - Belgium : 1.5 - Draw : 4.2 - Morocco : 6 - ] -> PREMATCH
+[ - Croatia : 1.74 - Draw : 3.8 - Canada : 4.3 - ] -> PREMATCH
+[ - Croatia : 3.5 - Draw : 3.25 - Belgium : 1.8 - ] -> PREMATCH
+[ - Canada : 2.95 - Draw : 3 - Morocco : 2.1 - ] -> PREMATCH
+[ - Brazil : 1.4 - Draw : 4.7 - Serbia : 7.75 - ] -> PREMATCH
+[ - Switzerland : 1.76 - Draw : 3.4 - Cameroon : 5.1 - ] -> PREMATCH
+[ - Brazil : 1.48 - Draw : 4.1 - Switzerland : 6.75 - ] -> PREMATCH
+[ - Cameroon : 4.1 - Draw : 3.3 - Serbia : 1.92 - ] -> PREMATCH
+[ - Cameroon : 7.5 - Draw : 4.4 - Brazil : 1.27 - ] -> PREMATCH
+[ - Serbia : 2.55 - Draw : 3.1 - Switzerland : 2.3 - ] -> PREMATCH
+[ - Portugal : 1.42 - Draw : 4.3 - Ghana : 8 - ] -> PREMATCH
+[ - Uruguay : 1.8 - Draw : 3.4 - South Korea : 4.8 - ] -> PREMATCH
+[ - Portugal : 2 - Draw : 3.3 - Uruguay : 3.7 - ] -> PREMATCH
+[ - South Korea : 2.55 - Draw : 2.9 - Ghana : 3 - ] -> PREMATCH
+[ - South Korea : 7.5 - Draw : 4 - Portugal : 1.31 - ] -> PREMATCH
+[ - Ghana : 4.2 - Draw : 3.25 - Uruguay : 1.66 - ] -> PREMATCH
+[ - Jagiellonia Bialystok : 3.25 - Draw : 3.25 - Lech Poznan : 1.94 - ] -> PREMATCH
+[ - Zaglebie Lubin : 4.8 - Draw : 3.7 - KS Rakow Czestochowa : 1.54 - ] -> PREMATCH
+[ - Korona Kielce : 2.5 - Draw : 3.15 - Widzew Lodz : 2.4 - ] -> PREMATCH
+[ - Lechia Gdansk : 2.15 - Draw : 3.1 - Piast Gliwice : 2.8 - ] -> PREMATCH
+[ - Gornik Zabrze : 1.56 - Draw : 3.55 - Miedz Legnica : 4.8 - ] -> PREMATCH
+[ - RKS Radomiak 1910 SA Radom : 2.45 - Draw : 3.05 - Pogon Szczecin : 2.4 - ] -> PREMATCH
+[ - Warta Poznan : 1.82 - Draw : 3.15 - FKS Stal Mielec : 3.85 - ] -> PREMATCH
+[ - Wisla Plock : 2.35 - Draw : 3.1 - KS Cracovia  : 2.65 - ] -> PREMATCH
+[ - Slask Wroclaw : 3.05 - Draw : 3.2 - Legia Warszawa : 1.98 - ] -> PREMATCH
+[ - Brøndby : 2 - Draw : 3.2 - Viborg FF : 2.95 - ] -> PREMATCH
+[ - Aarhus GF : 2.9 - Draw : 3.1 - FC Copenhague : 2.05 - ] -> PREMATCH
+[ - AC Horsens : 2.45 - Draw : 3.2 - Odense BK : 2.3 - ] -> PREMATCH
+[ - FC Nordsjælland : 1.62 - Draw : 3.5 - Aalborg BK : 4.4 - ] -> PREMATCH
+[ - Silkeborg IF : 1.46 - Draw : 4 - Lyngby BK : 5.2 - ] -> PREMATCH
+[ - Hapoel Haifa : 6 - Draw : 4.1 - Maccabi Haifa : 1.41 - ] -> PREMATCH
+[ - Hapoel Tel Aviv : 1.86 - Draw : 3.35 - Beitar Trump Jerusalem : 3.55 - ] -> PREMATCH
+[ - Bnei Sakhnin : 2.25 - Draw : 3.1 - MS Ashdod : 2.85 - ] -> PREMATCH
+[ - Hapoel Beer Sheva : 1.46 - Draw : 3.95 - Hapoel Hadera : 5.6 - ] -> PREMATCH
+[ - Sektzia Nes Tziona FC : 2.6 - Draw : 3.05 - Maccabi Bney Reine : 2.45 - ] -> PREMATCH
+[ - Hapoel Katamon Jerusalem : 5.6 - Draw : 4 - Maccabi Tel-Aviv : 1.46 - ] -> PREMATCH
+[ - Ajax : 1.1 - Draw : 7.5 - Vitesse : 13 - ] -> PREMATCH
+[ - Feyenoord : 1.17 - Draw : 5.8 - Cambuur : 10 - ] -> PREMATCH
+[ - FC Emmen : 8 - Draw : 5.3 - Ajax : 1.23 - ] -> PREMATCH
+[ - Groningen : 1.9 - Draw : 3.3 - Fortuna Sittard : 3.15 - ] -> PREMATCH
+[ - FC Volendam : 3.35 - Draw : 3.6 - Utrecht : 1.82 - ] -> PREMATCH
+[ - Feyenoord : 1.11 - Draw : 6.25 - Excelsior : 11.5 - ] -> PREMATCH
+[ - G.A Eagles : 2.2 - Draw : 3.2 - Vitesse : 2.65 - ] -> PREMATCH
+[ - NEC Nijmegen : 1.92 - Draw : 3.35 - RKC Waalwijk : 3.25 - ] -> PREMATCH
+[ - PSV : 1.5 - Draw : 4.1 - Alkmaar : 4.6 - ] -> PREMATCH
+[ - Heerenveen : 1.72 - Draw : 3.4 - Cambuur : 3.65 - ] -> PREMATCH
+[ - Sparta Rotterdam : 2.95 - Draw : 3.35 - Twente : 2 - ] -> PREMATCH
+[ - Bournemouth : 2.85 - Draw : 3.25 - Everton : 2.55 - ] -> PREMATCH
+[ - Brighton : 1.86 - Draw : 3.7 - Aston Villa : 4.2 - ] -> PREMATCH
+[ - Fulham : 3.95 - Draw : 3.9 - Manchester United : 1.86 - ] -> PREMATCH
+[ - Liverpool : 1.25 - Draw : 6.5 - Southampton : 11 - ] -> PREMATCH
+[ - Manchester City : 1.14 - Draw : 9 - Brentford  : 19 - ] -> PREMATCH
+[ - Newcastle : 2.3 - Draw : 3.4 - Chelsea : 3.1 - ] -> PREMATCH
+[ - Nottingham Forest : 3 - Draw : 3.25 - Crystal Palace : 2.45 - ] -> PREMATCH
+[ - Tottenham : 1.58 - Draw : 4.4 - Leeds : 5.3 - ] -> PREMATCH
+[ - West Ham : 2 - Draw : 3.5 - Leicester : 3.7 - ] -> PREMATCH
+[ - Wolverhampton  : 6 - Draw : 4.3 - Arsenal : 1.54 - ] -> PREMATCH
+[ - Lokomotiv Plovdiv : 4.1 - Draw : 3.4 - Ludogorets : 1.76 - ] -> PREMATCH
+[ - Cherno More Varna : 3 - Draw : 3.05 - CSKA Sofia : 2.1 - ] -> PREMATCH
+[ - Lokomotiv Sofia : 2 - Draw : 3.1 - PFC Beroe Stara Zagora : 3.25 - ] -> PREMATCH
+[ - FK Arda Kurdzhali : 2.65 - Draw : 2.95 - Botev Plovdiv : 2.4 - ] -> PREMATCH
+[ - Botev Vratsa : 2.05 - Draw : 3 - FK Septemvri Sofia : 3 - ] -> PREMATCH
+[ - Hebar Pazardzhik : 5 - Draw : 3.5 - Lokomotiv Plovdiv : 1.5 - ] -> PREMATCH
+[ - Ludogorets : 1.56 - Draw : 3.6 - FC CSKA 1948 : 4.7 - ] -> PREMATCH
+[ - FC Pirin Blagoevgrad : 1.58 - Draw : 3.55 - Spartak Varna : 4.7 - ] -> PREMATCH
+[ - Levski Sofia : 1.52 - Draw : 3.5 - Slavia Sofia : 5.3 - ] -> PREMATCH
+[ - Dundee United : 2.3 - Draw : 3.05 - Kilmarnock : 2.8 - ] -> PREMATCH
+[ - Hibernian FC : 1.48 - Draw : 3.85 - Ross County : 5.7 - ] -> PREMATCH
+[ - Livingston FC : 2.7 - Draw : 3.05 - Aberdeen : 2.35 - ] -> PREMATCH
+[ - Motherwell : 8.5 - Draw : 5.1 - Celtic Glasgow : 1.24 - ] -> PREMATCH
+[ - Glasgow Rangers : 1.21 - Draw : 5.5 - Heart of Midlothian : 9.5 - ] -> PREMATCH
+[ - St. Mirren : 1.96 - Draw : 3.1 - St Johnstone : 3.55 - ] -> PREMATCH
+[ - Aberdeen : 1.64 - Draw : 3.25 - Dundee United : 4.7 - ] -> PREMATCH
+[ - Celtic Glasgow : 1.07 - Draw : 7.25 - Ross County : 17 - ] -> PREMATCH
+[ - Heart of Midlothian : 2 - Draw : 3.1 - Livingston FC : 3.3 - ] -> PREMATCH
+[ - Kilmarnock : 3.2 - Draw : 3.05 - Hibernian FC : 2.05 - ] -> PREMATCH
+[ - St Johnstone : 2.2 - Draw : 2.95 - Motherwell : 2.95 - ] -> PREMATCH
+[ - St. Mirren : 6 - Draw : 4.3 - Glasgow Rangers : 1.38 - ] -> PREMATCH
+[ - B. Munich : 1.17 - Draw : 8 - Werder : 15 - ] -> PREMATCH
+[ - Leipzig : 1.7 - Draw : 4.2 - Freiburg : 4.4 - ] -> PREMATCH
+[ - Union Berlin : 1.52 - Draw : 4.2 - Augsburg : 6.5 - ] -> PREMATCH
+[ - Cologne : 3.2 - Draw : 3.7 - Leverkusen : 2.15 - ] -> PREMATCH
+[ - Francfort : 1.92 - Draw : 3.9 - Hoffenheim : 3.75 - ] -> PREMATCH
+[ - Wolfsburg : 3.45 - Draw : 3.7 - Dortmund : 2.05 - ] -> PREMATCH
+[ - Bochum : 3.65 - Draw : 3.85 - M'Gladbach : 1.96 - ] -> PREMATCH
+[ - Stuttgart : 1.92 - Draw : 3.7 - Hertha : 3.8 - ] -> PREMATCH
+[ - Schalke : 3.4 - Draw : 3.75 - Mainz : 2.05 - ] -> PREMATCH
+[ - Leverkusen : 1.7 - Draw : 4.1 - Stuttgart : 4.4 - ] -> PREMATCH
+[ - Freiburg : 2.15 - Draw : 3.35 - Union Berlin : 3.4 - ] -> PREMATCH
+[ - Mainz : 2.4 - Draw : 3.5 - Francfort : 2.8 - ] -> PREMATCH
+[ - Hoffenheim : 1.88 - Draw : 3.85 - Wolfsburg : 3.75 - ] -> PREMATCH
+[ - M'Gladbach : 3.1 - Draw : 3.8 - Dortmund : 2.1 - ] -> PREMATCH
+[ - Augsburg : 2.1 - Draw : 3.55 - Bochum : 3.35 - ] -> PREMATCH
+[ - Hertha : 2.25 - Draw : 3.55 - Cologne : 2.95 - ] -> PREMATCH
+[ - Schalke : 12.5 - Draw : 8 - B. Munich : 1.17 - ] -> PREMATCH
+[ - Werder : 3.5 - Draw : 4 - Leipzig : 1.92 - ] -> PREMATCH
+[ - Fürth : 3.05 - Draw : 3.4 - Hamburg : 2 - ] -> PREMATCH
+[ - St. Pauli : 2.05 - Draw : 3.4 - Kiel : 3 - ] -> PREMATCH
+[ - Paderborn : 1.52 - Draw : 4.1 - Bielefeld : 4.9 - ] -> PREMATCH
+[ - Hannover : 2.6 - Draw : 3.2 - Düsseldorf : 2.45 - ] -> PREMATCH
+[ - Rostock : 2.35 - Draw : 3.05 - Nuremberg : 2.7 - ] -> PREMATCH
+[ - Sandhausen : 3.25 - Draw : 3.1 - Heidenheim : 2.05 - ] -> PREMATCH
+[ - Regensburg : 2.25 - Draw : 3.15 - Braunschweig : 2.8 - ] -> PREMATCH
+[ - Magdeburg : 3.05 - Draw : 3.35 - Darmstadt : 2 - ] -> PREMATCH
+[ - K'Lautern : 2.2 - Draw : 3.25 - Karlsruhe : 2.9 - ] -> PREMATCH
+[ - Bielefeld : 2.2 - Draw : 3.25 - Magdeburg : 2.75 - ] -> PREMATCH
+[ - Hamburg : 1.47 - Draw : 3.95 - Sandhausen : 5.2 - ] -> PREMATCH
+[ - Darmstadt : 1.56 - Draw : 3.55 - Fürth : 4.8 - ] -> PREMATCH
+[ - Heidenheim : 1.68 - Draw : 3.45 - Regensburg : 4.2 - ] -> PREMATCH
+[ - Nuremberg : 2.95 - Draw : 3.35 - Paderborn : 1.96 - ] -> PREMATCH
+[ - Kiel : 2.05 - Draw : 3.3 - Hannover : 2.95 - ] -> PREMATCH
+[ - Düsseldorf : 1.82 - Draw : 3.4 - K'Lautern : 3.5 - ] -> PREMATCH
+[ - Karlsruhe : 2.1 - Draw : 3.3 - St. Pauli : 2.9 - ] -> PREMATCH
+[ - Braunschweig : 2.15 - Draw : 3.15 - Rostock : 2.7 - ] -> PREMATCH
+[ - Metz : 1.37 - Draw : 4.1 - St Etienne : 6.5 - ] -> LIVE
+[ - St Etienne : 1.6 - Draw : 3.75 - Rodez Aveyron : 6 - ] -> PREMATCH
+[ - Laval : 2.15 - Draw : 3.25 - Valenciennes : 3.45 - ] -> PREMATCH
+[ - Sochaux : 1.92 - Draw : 3.4 - Bastia : 4.1 - ] -> PREMATCH
+[ - Paris FC : 2.25 - Draw : 3.3 - Metz : 3.25 - ] -> PREMATCH
+[ - Grenoble Foot : 2.65 - Draw : 2.95 - Dijon : 2.9 - ] -> PREMATCH
+[ - SC Amiens : 1.9 - Draw : 3.3 - Quevilly Rouen : 4.4 - ] -> PREMATCH
+[ - Niort : 2.5 - Draw : 3.25 - Nîmes : 2.85 - ] -> PREMATCH
+[ - Caen : 1.8 - Draw : 3.55 - Annecy FC : 4.6 - ] -> PREMATCH
+[ - Guingamp : 2.85 - Draw : 3 - Le Havre : 2.65 - ] -> PREMATCH
+[ - Monaco : 2.25 - Draw : 3.6 - Marseille : 3.1 - ] -> PREMATCH
+[ - Nantes : 2.05 - Draw : 3.4 - AC Ajaccio : 3.85 - ] -> PREMATCH
+[ - Lille : 1.35 - Draw : 5.3 - Angers : 8.5 - ] -> PREMATCH
+[ - Montpellier : 2.5 - Draw : 3.45 - Reims : 2.8 - ] -> PREMATCH
+[ - Lyon : 1.74 - Draw : 3.95 - Nice : 4.5 - ] -> PREMATCH
+[ - PSG : 1.09 - Draw : 11 - Auxerre : 25 - ] -> PREMATCH
+[ - Lens : 1.45 - Draw : 4.8 - Clermont : 7 - ] -> PREMATCH
+[ - Strasbourg : 2.2 - Draw : 3.5 - Lorient : 3.25 - ] -> PREMATCH
+[ - Brest : 2.15 - Draw : 3.6 - Troyes : 3.3 - ] -> PREMATCH
+[ - Rennes : 1.5 - Draw : 4.7 - Toulouse : 6 - ] -> PREMATCH
+[ - FK Dac 1904 Dunajska Streda : 1.74 - Draw : 3.25 - MFK Ruzomberok : 3.7 - ] -> PREMATCH
+[ - FC Spartak Trnava : 1.3 - Draw : 4.3 - MFK Zemplin Michalovce : 7 - ] -> PREMATCH
+[ - FC Spartak Trnava : 1.31 - Draw : 4.5 - MFK Skalica : 7 - ] -> PREMATCH
+[ - ZP Sport Podbrezova : 1.68 - Draw : 3.6 - Liptovsky Mikulas : 4 - ] -> PREMATCH
+[ - AS Trencin : 2.5 - Draw : 3.15 - FK Dac 1904 Dunajska Streda : 2.4 - ] -> PREMATCH
+[ - Slovan Bratislava : 1.32 - Draw : 4.6 - MFK Ruzomberok : 6.75 - ] -> PREMATCH
+[ - FC Vion Zlate Moravce : 1.86 - Draw : 3.3 - FK Dukla Banska Bystrica : 3.5 - ] -> PREMATCH
+[ - MFK Zemplin Michalovce : 2.55 - Draw : 3.15 - MSK Zilina : 2.35 - ] -> PREMATCH
+[ - Grasshopper Zuerich : 2.75 - Draw : 3.4 - FC Basel : 2.1 - ] -> PREMATCH
+[ - Sion : 2.55 - Draw : 3.25 - Saint Gallen : 2.3 - ] -> PREMATCH
+[ - FC Lugano : 1.74 - Draw : 3.55 - FC Winterthur : 3.7 - ] -> PREMATCH
+[ - Young Boys Bern : 1.41 - Draw : 4.1 - Luzern : 5.1 - ] -> PREMATCH
+[ - FC Zuerich : 2.2 - Draw : 3.15 - Servette FC : 2.75 - ] -> PREMATCH
+[ - HNK Gorica : 2.15 - Draw : 3.2 - NK Varazdin : 2.9 - ] -> PREMATCH
+[ - NK Lokomotiva Zagreb : 1.7 - Draw : 3.45 - NK Istra 1961 : 4 - ] -> PREMATCH
+[ - HNK Rijeka : 5.2 - Draw : 4 - D. Zagreb : 1.46 - ] -> PREMATCH
+[ - HNK Sibenik : 3.5 - Draw : 3.15 - NK Osijek : 1.84 - ] -> PREMATCH
+[ - NK Slaven Belupo : 4.1 - Draw : 3.35 - HNK Hajduk Split : 1.7 - ] -> PREMATCH
+[ - NK Bravo : 1.9 - Draw : 3.2 - Kalcer Radomlje : 3.45 - ] -> PREMATCH
+[ - NK Tabor Sezana : 3.75 - Draw : 3.2 - NK Maribor : 1.82 - ] -> PREMATCH
+[ - NK Mura : 1.58 - Draw : 3.55 - ND Gorica : 4.2 - ] -> PREMATCH
+[ - NK Celje : 1.94 - Draw : 3.15 - FC Luka Koper : 3.15 - ] -> PREMATCH
+[ - NK Domzale : 2.8 - Draw : 3.25 - NK Olimpija Ljubljana : 2.05 - ] -> PREMATCH
+[ - FK Riteriai : 2.45 - Draw : 3.3 - Kauno Zalgiris  : 2.25 - ] -> PREMATCH
+[ - LASK : 2.25 - Draw : 3.25 - SK Sturm Graz : 2.5 - ] -> PREMATCH
+[ - FK Austria Vienna : 1.84 - Draw : 3.5 - WAC : 3.15 - ] -> PREMATCH
+[ - SK Austria Klagenfurt : 5.1 - Draw : 4.3 - RB Salzburg : 1.39 - ] -> PREMATCH
+[ - Lustenau : 2.15 - Draw : 3.35 - SCR Altach : 2.7 - ] -> PREMATCH
+[ - TSV Hartberg : 3.75 - Draw : 3.7 - SK Rapid Vienne : 1.7 - ] -> PREMATCH
+[ - WSG Swarovski Tirol : 1.92 - Draw : 3.4 - SV Ried : 3.15 - ] -> PREMATCH
+[ - Sparta Prague : 1.27 - Draw : 4.6 - SK Dynamo Ceske Budejovice : 6.75 - ] -> PREMATCH
+[ - Hradec Kralove : 2.25 - Draw : 3.05 - Slovacko : 2.6 - ] -> PREMATCH
+[ - Teplice : 2.45 - Draw : 3.15 - Slovan Liberec : 2.45 - ] -> PREMATCH
+[ - FK Pardubice : 5.2 - Draw : 3.9 - Viktoria Plzen : 1.43 - ] -> PREMATCH
+[ - Brno : 2.25 - Draw : 3.1 - Sigma Olomouc : 2.65 - ] -> PREMATCH
+[ - Jablonec : 2.05 - Draw : 3.3 - Mlada Boleslav : 3 - ] -> PREMATCH
+[ - Banik Ostrava : 2.05 - Draw : 3.25 - Bohemians 1905 : 2.95 - ] -> PREMATCH
+[ - Fastav Zlin : 5.8 - Draw : 4 - Slavia Prague : 1.37 - ] -> PREMATCH
+[ - Birmingham : 2.15 - Draw : 3.05 - Sunderland : 2.95 - ] -> PREMATCH
+[ - Bristol City : 2.8 - Draw : 3.15 - Watford : 2.2 - ] -> PREMATCH
+[ - Burnley : 1.64 - Draw : 3.35 - Blackburn : 4.5 - ] -> PREMATCH
+[ - Cardiff  : 3 - Draw : 3.1 - Sheffield United : 2.1 - ] -> PREMATCH
+[ - Coventry City : 2.25 - Draw : 3.05 - QPR : 2.75 - ] -> PREMATCH
+[ - Huddersfield : 2.6 - Draw : 3 - Swansea : 2.35 - ] -> PREMATCH
+[ - Hull : 2.15 - Draw : 3.15 - Reading : 2.85 - ] -> PREMATCH
+[ - Luton Town : 1.68 - Draw : 3.35 - Rotherham : 4.3 - ] -> PREMATCH
+[ - Norwich : 1.96 - Draw : 3.25 - Middlesbrough : 3.25 - ] -> PREMATCH
+[ - Preston North End : 2.25 - Draw : 2.9 - Millwall : 2.8 - ] -> PREMATCH
+[ - West Brom : 1.82 - Draw : 3.25 - Stoke : 3.7 - ] -> PREMATCH
+[ - Wigan : 2.25 - Draw : 3.15 - Blackpool : 2.75 - ] -> PREMATCH
+[ - Club Brugge : 1.76 - Draw : 3.5 - Royal Antwerp FC : 3.65 - ] -> PREMATCH
+[ - Anderlecht : 2.4 - Draw : 3.15 - Genk : 2.35 - ] -> PREMATCH
+[ - Standard Liege : 3.1 - Draw : 3.25 - Union Saint-Gilloise : 1.92 - ] -> PREMATCH
+[ - O-H Leuven : 1.58 - Draw : 3.75 - RFC Seraing : 4.4 - ] -> PREMATCH
+[ - Kortrijk : 4.2 - Draw : 3.5 - Gent : 1.6 - ] -> PREMATCH
+[ - Zulte-Waregem : 2.2 - Draw : 3.35 - Eupen : 2.65 - ] -> PREMATCH
+[ - Sint Truidense : 2.25 - Draw : 3.1 - Cercle Brugge : 2.75 - ] -> PREMATCH
+[ - Westerlo : 1.74 - Draw : 3.5 - Oostende : 3.75 - ] -> PREMATCH
+[ - Sporting Charleroi : 2.15 - Draw : 3.3 - KV Mechelen : 2.8 - ] -> PREMATCH
+[ - Rayo Vallecano : 4.4 - Draw : 3.5 - R. Madrid : 1.64 - ] -> LIVE
+[ - Ath Bilbao : 1.42 - Draw : 4.5 - R. Valladolid : 8.5 - ] -> PREMATCH
+[ - Elche : 3.1 - Draw : 3.35 - Girona  : 2.35 - ] -> PREMATCH
+[ - Espanyol : 3.1 - Draw : 3.25 - Villarreal : 2.4 - ] -> PREMATCH
+[ - Almeria : 2.2 - Draw : 3.2 - Getafe : 3.6 - ] -> PREMATCH
+[ - Mallorca : 3.85 - Draw : 3.15 - Atl. Madrid : 2.1 - ] -> PREMATCH
+[ - Osasuna : 6.75 - Draw : 4.5 - Barcelona : 1.48 - ] -> PREMATCH
+[ - Valencia : 2.2 - Draw : 3.3 - Betis Seville : 3.4 - ] -> PREMATCH
+[ - Rayo Vallecano : 2.25 - Draw : 3.25 - Celta Vigo : 3.3 - ] -> PREMATCH
+[ - R. Madrid : 1.12 - Draw : 9.5 - CF Cadiz : 22 - ] -> PREMATCH
+[ - Sevilla : 2.55 - Draw : 3.2 - R. Sociedad : 2.9 - ] -> PREMATCH
+[ - Atl. Madrid : 1.26 - Draw : 5.5 - Elche : 10 - ] -> PREMATCH
+[ - Barcelona : 1.21 - Draw : 6.25 - Espanyol : 10.5 - ] -> PREMATCH
+[ - Celta Vigo : 2.45 - Draw : 3.15 - Sevilla : 2.8 - ] -> PREMATCH
+[ - Getafe : 2.35 - Draw : 2.95 - Mallorca : 3.15 - ] -> PREMATCH
+[ - Girona  : 2.35 - Draw : 3.15 - Rayo Vallecano : 2.95 - ] -> PREMATCH
+[ - Betis Seville : 2.4 - Draw : 3.1 - Ath Bilbao : 2.95 - ] -> PREMATCH
+[ - R. Sociedad : 1.74 - Draw : 3.4 - Osasuna : 4.8 - ] -> PREMATCH
+[ - R. Valladolid : 5.8 - Draw : 4.5 - R. Madrid : 1.47 - ] -> PREMATCH
+[ - Villarreal : 1.7 - Draw : 3.7 - Valencia : 4.5 - ] -> PREMATCH
+[ - CF Cadiz : 2.45 - Draw : 3.15 - Almeria : 2.85 - ] -> PREMATCH
+[ - Lugo : 2.5 - Draw : 2.6 - FC Cartagena : 2.5 - ] -> LIVE
+[ - FC Andorra : 1.8 - Draw : 3.3 - Lugo : 4.1 - ] -> PREMATCH
+[ - Levante : 2.15 - Draw : 3.1 - Las Palmas : 3.2 - ] -> PREMATCH
+[ - Eibar : 2.3 - Draw : 3.05 - Alaves : 3 - ] -> PREMATCH
+[ - R. Santander : 2.4 - Draw : 2.85 - Burgos CF : 3 - ] -> PREMATCH
+[ - Mirandes : 2.55 - Draw : 3.05 - FC Cartagena : 2.6 - ] -> PREMATCH
+[ - Tenerife : 2.25 - Draw : 3 - Huesca : 3.1 - ] -> PREMATCH
+[ - Villarreal CF B : 2 - Draw : 3.35 - UD Ibiza : 3.3 - ] -> PREMATCH
+[ - Gijon : 2.4 - Draw : 3 - Leganes : 2.85 - ] -> PREMATCH
+[ - Saragosse : 1.88 - Draw : 2.9 - Malaga : 4.5 - ] -> PREMATCH
+[ - Ponferradina : 2.5 - Draw : 3 - Real Oviedo : 2.75 - ] -> PREMATCH
+[ - Granada CF : 2 - Draw : 3.1 - Albacete : 3.6 - ] -> PREMATCH
+[ - US Cremonese : 6.75 - Draw : 4.3 - AC Milan : 1.49 - ] -> PREMATCH
+[ - Fiorentina : 1.52 - Draw : 4.4 - Salernitana : 6.25 - ] -> PREMATCH
+[ - Verona : 5.5 - Draw : 3.8 - Juventus : 1.66 - ] -> PREMATCH
+[ - Inter : 1.3 - Draw : 5.5 - Bologna : 10.5 - ] -> PREMATCH
+[ - Lazio : 1.64 - Draw : 4.1 - Monza : 5.2 - ] -> PREMATCH
+[ - Lecce : 4.6 - Draw : 3.6 - Atalanta : 1.82 - ] -> PREMATCH
+[ - Napoli : 1.17 - Draw : 7.75 - Empoli : 16 - ] -> PREMATCH
+[ - Sassuolo : 3.5 - Draw : 3.55 - AS Roma : 2.05 - ] -> PREMATCH
+[ - Spezia : 4.3 - Draw : 3.6 - Udinese : 1.86 - ] -> PREMATCH
+[ - Torino : 1.6 - Draw : 3.95 - Sampdoria : 5.9 - ] -> PREMATCH
+[ - Atalanta : 3.05 - Draw : 3.65 - Inter : 2.2 - ] -> PREMATCH
+[ - Bologna : 2.35 - Draw : 3.35 - Sassuolo : 3 - ] -> PREMATCH
+[ - Empoli : 2.3 - Draw : 3.45 - US Cremonese : 3 - ] -> PREMATCH
+[ - Verona : 1.94 - Draw : 3.55 - Spezia : 3.85 - ] -> PREMATCH
+[ - Juventus : 1.92 - Draw : 3.6 - Lazio : 3.9 - ] -> PREMATCH
+[ - AC Milan : 1.7 - Draw : 3.95 - Fiorentina : 4.7 - ] -> PREMATCH
+[ - Monza : 1.98 - Draw : 3.45 - Salernitana : 3.85 - ] -> PREMATCH
+[ - Napoli : 1.46 - Draw : 4.6 - Udinese : 6.5 - ] -> PREMATCH
+[ - AS Roma : 1.82 - Draw : 3.6 - Torino : 4.3 - ] -> PREMATCH
+[ - Sampdoria : 2.55 - Draw : 3.1 - Lecce : 2.9 - ] -> PREMATCH
+[ - Debreceni : 2.1 - Draw : 3.3 - Mezokovesd Zsory : 2.95 - ] -> PREMATCH
+[ - Ferencvárosi TC : 1.33 - Draw : 4.8 - Paksi : 6.25 - ] -> PREMATCH
+[ - Ujpest : 2.1 - Draw : 3.4 - MOL Vidi FC : 2.85 - ] -> PREMATCH
+[ - Kisvarda FC : 1.86 - Draw : 3.4 - Zalaegerszeg TE : 3.5 - ] -> PREMATCH
+[ - Kecskemeti : 3.25 - Draw : 3.35 - Puskas Akademia : 1.96 - ] -> PREMATCH
+[ - Budapest Honved : 2.05 - Draw : 3.15 - SC Vasas Budapest : 3 - ] -> PREMATCH
+[ - SC Vasas Budapest : 2.1 - Draw : 3.2 - Mezokovesd Zsory : 2.9 - ] -> PREMATCH
+[ - Puskas Akademia : 1.64 - Draw : 3.65 - Debreceni : 4.1 - ] -> PREMATCH
+[ - Zalaegerszeg TE : 1.8 - Draw : 3.3 - Kecskemeti : 3.45 - ] -> PREMATCH
+[ - MOL Vidi FC : 2.3 - Draw : 3.15 - Kisvarda FC : 2.6 - ] -> PREMATCH
+[ - Paksi : 2.15 - Draw : 3.4 - Ujpest : 2.7 - ] -> PREMATCH
+[ - Budapest Honved : 5.2 - Draw : 4.1 - Ferencvárosi TC : 1.41 - ] -> PREMATCH
+[ - Cluj : 1.02 - Draw : 14.5 - FC U Craiova 1948 : 50 - ] -> LIVE
+[ - Sepsi OSK : 1.5 - Draw : 3.65 - FC Petrolul Ploiești : 5.4 - ] -> PREMATCH
+[ - FC Universitatea Cluj : 1.98 - Draw : 2.85 - FC Argeş Piteşti : 3.45 - ] -> PREMATCH
+[ - Rapid Bucharest : 2.4 - Draw : 2.85 - CS Universitatea Craiova : 2.75 - ] -> PREMATCH
+[ - FC U Craiova 1948 : 2.95 - Draw : 3 - FCSB : 2.1 - ] -> PREMATCH
+[ - CS Mioveni : 4.2 - Draw : 3.3 - Cluj : 1.72 - ] -> PREMATCH
+[ - AFC Chindia Târgoviște : 3 - Draw : 2.95 - Farul Constanța : 2.2 - ] -> PREMATCH
+[ - FC Botoșani : 2.5 - Draw : 2.7 - FC Hermannstadt : 2.6 - ] -> PREMATCH
+[ - UTA Arad : 2 - Draw : 2.85 - FC Voluntari : 3.6 - ] -> PREMATCH
+[ - Alanyaspor : 2.5 - Draw : 3.2 - Adana Demirspor : 2.4 - ] -> PREMATCH
+[ - Fatih Karagumruk Istanbul : 2 - Draw : 3.1 - Gaziantep Bld Spor : 3.05 - ] -> PREMATCH
+[ - Besiktas  : 1.5 - Draw : 3.65 - Antalyaspor : 4.9 - ] -> PREMATCH
+[ - Sivasspor : 1.82 - Draw : 3.35 - Ümraniyespor : 3.6 - ] -> PREMATCH
+[ - MKE Ankaragücü : 3.25 - Draw : 3.2 - Trabzonspor : 1.96 - ] -> PREMATCH
+[ - Istanbul Basaksehir : 2.45 - Draw : 3.15 - Galatasaray : 2.45 - ] -> PREMATCH
+[ - Istanbulspor AS : 2.35 - Draw : 3.1 - Hatayspor : 2.65 - ] -> PREMATCH
+[ - Fenerbahce : 1.28 - Draw : 4.7 - Giresunspor : 7.25 - ] -> PREMATCH
+[ - Kayserispor : 2.4 - Draw : 3 - Konyaspor : 2.45 - ] -> PREMATCH
+[ - Atletic Club Escaldes : 1.22 - Draw : 4.5 - FC Ordino : 8.5 - ] -> PREMATCH
+[ - Chaves : 2.35 - Draw : 3 - CD Santa Clara : 3.3 - ] -> PREMATCH
+[ - CD Santa Clara : 2.3 - Draw : 2.9 - Estoril : 2.7 - ] -> PREMATCH
+[ - Arouca : 2.2 - Draw : 3.2 - Rio Ave : 3.35 - ] -> PREMATCH
+[ - Benfica : 1.14 - Draw : 8 - FC Gil Vicente : 17 - ] -> PREMATCH
+[ - Boavista : 9 - Draw : 5 - FC Porto : 1.34 - ] -> PREMATCH
+[ - FC Famalicao : 5.5 - Draw : 3.85 - Sporting : 1.62 - ] -> PREMATCH
+[ - FC Pacos Ferreira : 3 - Draw : 3.2 - FC Vizela : 2.4 - ] -> PREMATCH
+[ - Vitoria Guimaraes : 1.68 - Draw : 3.7 - Maritimo : 5.2 - ] -> PREMATCH
+[ - Portimonense : 5 - Draw : 3.9 - Braga : 1.66 - ] -> PREMATCH
+[ - Casa Pia AC : 2.2 - Draw : 3.3 - Chaves : 3.35 - ] -> PREMATCH
+[ - SL Benfica B : 2.15 - Draw : 3.2 - FC Penafiel : 2.9 - ] -> PREMATCH
+[ - Nacional Madeira  : 2.4 - Draw : 3.05 - FC Porto B : 2.6 - ] -> PREMATCH
+[ - Sporting Farense : 1.9 - Draw : 3.15 - CD Feirense : 3.5 - ] -> PREMATCH
+[ - CF Estrela : 2.05 - Draw : 3.15 - Uniao Desportiva Oliveirense : 3.1 - ] -> PREMATCH
+[ - SCU Torreense : 2.7 - Draw : 2.95 - Vilafranquense : 2.25 - ] -> PREMATCH
+[ - Tondela : 2.6 - Draw : 3 - Moreirense : 2.3 - ] -> PREMATCH
+[ - Sporting Covilha : 2.4 - Draw : 3.05 - Belenenses : 2.45 - ] -> PREMATCH
+[ - CD Mafra : 2.05 - Draw : 3.05 - Leixoes SC : 2.95 - ] -> PREMATCH
+[ - Academico De Viseu FC : 1.74 - Draw : 3.4 - CD Trofense : 3.9 - ] -> PREMATCH
+[ - AEK Larnaca : 1.8 - Draw : 3.25 - Limassol : 3.75 - ] -> PREMATCH
+[ - Apollon : 1.25 - Draw : 4.8 - Akritas Chlorakas : 8.5 - ] -> PREMATCH
+[ - Enosis Neon Paralimni : 2.25 - Draw : 3.05 - Karmiotissa Polemidion : 2.85 - ] -> PREMATCH
+[ - Doxa Katokopias : 4.3 - Draw : 3.35 - Apoel Nicosia : 1.68 - ] -> PREMATCH
+[ - Omonia Nicosie : 1.56 - Draw : 3.55 - Olympiakos Nicosia : 4.9 - ] -> PREMATCH
+[ - NEA Salamina Famagusta : 3.45 - Draw : 3.2 - Aris Limassol : 1.92 - ] -> PREMATCH
+[ - Pafos FC : 1.88 - Draw : 3.2 - Anorthosis Famagusta : 3.65 - ] -> PREMATCH
+[ - Reggina : 1.58 - Draw : 3.05 - Genoa : 4.5 - ] -> LIVE
+[ - Ascoli : 2.95 - Draw : 3 - Frosinone : 2.25 - ] -> PREMATCH
+[ - Bari : 1.88 - Draw : 3.15 - FC Sudtirol : 3.8 - ] -> PREMATCH
+[ - Cagliari : 2.05 - Draw : 3 - Pisa : 3.25 - ] -> PREMATCH
+[ - Nuova Cosenza Calcio : 3.05 - Draw : 2.95 - Palermo : 2.2 - ] -> PREMATCH
+[ - Genoa : 1.34 - Draw : 4.3 - Como : 7 - ] -> PREMATCH
+[ - Modena : 2 - Draw : 3.15 - Perugia : 3.25 - ] -> PREMATCH
+[ - Parme : 1.98 - Draw : 3 - AS Cittadella : 3.65 - ] -> PREMATCH
+[ - Spal 2013 : 2.25 - Draw : 3 - Benevento : 2.9 - ] -> PREMATCH
+[ - Ternana : 2.15 - Draw : 3.05 - Brescia : 3.05 - ] -> PREMATCH
+[ - Venezia : 2.45 - Draw : 3.05 - Reggina : 2.65 - ] -> PREMATCH
+[ - AEK Athens : 1.21 - Draw : 5.3 - OFI Kreta : 10 - ] -> PREMATCH
+[ - Aris Thessaloniki : 1.47 - Draw : 3.5 - Lamia 1964 : 6.5 - ] -> PREMATCH
+[ - Atromitos : 2.35 - Draw : 2.9 - Asteras Tripolis : 2.6 - ] -> PREMATCH
+[ - Volos Nps : 1.72 - Draw : 3.3 - Giannina : 4.1 - ] -> PREMATCH
+[ - Ionikos : 4.7 - Draw : 3.35 - PAOK Thessaloniki : 1.62 - ] -> PREMATCH
+[ - FC Levadiakos : 7.75 - Draw : 4.4 - Olympiakos : 1.32 - ] -> PREMATCH
+[ - Panetolikos : 4.9 - Draw : 3.45 - Panathinaikos : 1.6 - ] -> PREMATCH
+[ - Asteras Tripolis : 1.68 - Draw : 2.95 - Ionikos : 4.7 - ] -> PREMATCH
+[ - Olympiakos : 2.05 - Draw : 2.95 - AEK Athens : 3.1 - ] -> PREMATCH
+[ - OFI Kreta : 1.76 - Draw : 3 - FC Levadiakos : 4 - ] -> PREMATCH
+[ - Panathinaikos : 1.32 - Draw : 3.85 - Atromitos : 7.5 - ] -> PREMATCH
+[ - PAOK Thessaloniki : 1.42 - Draw : 3.8 - Volos Nps : 5.6 - ] -> PREMATCH
+[ - Giannina : 3.6 - Draw : 3 - Aris Thessaloniki : 1.86 - ] -> PREMATCH
+[ - Lamia 1964 : 2 - Draw : 2.95 - Panetolikos : 3.15 - ] -> PREMATCH
+[ - Bordeaux : 1.64 - Draw : 3.85 - Pau FC : 5.4 - ] -> PREMATCH
+[ - Adelaide United FC : 2.45 - Draw : 3.2 - Melbourne Victory FC : 2.4 - ] -> PREMATCH
+[ - Newcastle Jets : 3.75 - Draw : 3.45 - Melbourne City : 1.76 - ] -> PREMATCH
+[ - Sydney FC : 1.92 - Draw : 3.25 - WS Wanderers : 3.3 - ] -> PREMATCH
+[ - Wellington Phoenix FC : 2.1 - Draw : 3.2 - Western United FC : 2.95 - ] -> PREMATCH
+[ - CC Mariners : 1.76 - Draw : 3.55 - Macarthur FC : 3.6 - ] -> PREMATCH
+[ - Brisbane Roar FC : 2.4 - Draw : 3.1 - Adelaide United FC : 2.4 - ] -> PREMATCH
+[ - Perth Glory FC : 2.3 - Draw : 3.1 - Western United FC : 2.55 - ] -> PREMATCH
+[ - Wellington Phoenix FC : 2.6 - Draw : 3.05 - WS Wanderers : 2.3 - ] -> PREMATCH
+[ - Sydney FC : 2.65 - Draw : 3.15 - Melbourne City : 2.2 - ] -> PREMATCH
+[ - CC Mariners : 1.88 - Draw : 3.3 - Newcastle Jets : 3.2 - ] -> PREMATCH
+[ - Macarthur FC : 3.3 - Draw : 3.1 - Melbourne Victory FC : 1.92 - ] -> PREMATCH
+[ - FC Lviv : 2.7 - Draw : 3.1 - Rukh Vinnyky : 2.35 - ] -> PREMATCH
+[ - FC Minaj : 2.4 - Draw : 3 - Chernomorets Odessa : 2.65 - ] -> PREMATCH
+[ - FC Kryvbas Kriviy Rih : 4.1 - Draw : 3.45 - Vorskla Poltava : 1.7 - ] -> PREMATCH
+[ - Metalist Kharkiv : 1.84 - Draw : 3.5 - FC Metalist 1925 : 3.55 - ] -> PREMATCH
+[ - Kolos Kovalivka : 4.2 - Draw : 3.4 - SC Dnipro-1 : 1.72 - ] -> PREMATCH
+[ - FC Ingulets : 4.7 - Draw : 3.55 - Zorya Louhansk : 1.64 - ] -> PREMATCH
+[ - Dinamo Kyiv : 1.46 - Draw : 4 - Olexandria  : 5.5 - ] -> PREMATCH
+[ - Veres Rivne : 7.25 - Draw : 4.5 - Shakhtar Donetsk : 1.33 - ] -> PREMATCH
+[ - Arsenal : 1.64 - Draw : 3.55 - Brighton : 4.5 - ] -> PREMATCH
+[ - Bournemouth : 2.65 - Draw : 3.15 - Everton : 2.35 - ] -> PREMATCH
+[ - Brentford  : 1.12 - Draw : 6.5 - Gillingham FC : 14.5 - ] -> PREMATCH
+[ - Bristol City : 1.6 - Draw : 3.55 - Lincoln City : 4.5 - ] -> PREMATCH
+[ - Burnley : 1.2 - Draw : 5.6 - Crawley Town : 10.5 - ] -> PREMATCH
+[ - Leicester : 1.1 - Draw : 7 - Newport County AFC : 16 - ] -> PREMATCH
+[ - Liverpool : 1.1 - Draw : 7 - Derby : 14.5 - ] -> PREMATCH
+[ - Milton Keynes  : 1.66 - Draw : 3.45 - Morecambe FC : 4.5 - ] -> PREMATCH
+[ - Manchester City : 1.45 - Draw : 4.2 - Chelsea : 5.3 - ] -> PREMATCH
+[ - Manchester United : 1.56 - Draw : 3.65 - Aston Villa : 4.8 - ] -> PREMATCH
+[ - Newcastle : 1.68 - Draw : 3.5 - Crystal Palace : 4.2 - ] -> PREMATCH
+[ - Nottingham Forest : 3.4 - Draw : 3.35 - Tottenham : 1.92 - ] -> PREMATCH
+[ - Southampton : 1.45 - Draw : 4 - Sheffield Wed : 5.6 - ] -> PREMATCH
+[ - Stevenage : 2.3 - Draw : 3.1 - Charlton : 2.5 - ] -> PREMATCH
+[ - West Ham : 1.33 - Draw : 4.4 - Blackburn : 7 - ] -> PREMATCH
+[ - Wolverhampton  : 2.1 - Draw : 3.2 - Leeds : 2.75 - ] -> PREMATCH
+[ - Coventry City : 1.94 - Draw : 3.25 - Wigan : 3.35 - ] -> PREMATCH
+[ - Blackpool : 2.85 - Draw : 3.2 - Middlesbrough : 2.15 - ] -> PREMATCH
+[ - Cardiff  : 1.9 - Draw : 3.15 - Hull : 3.7 - ] -> PREMATCH
+[ - QPR : 1.66 - Draw : 3.4 - Huddersfield : 4.6 - ] -> PREMATCH
+[ - Sheffield United : 1.36 - Draw : 4.3 - Rotherham : 6.75 - ] -> PREMATCH
+[ - Watford : 1.78 - Draw : 3.25 - Reading : 4 - ] -> PREMATCH
+[ - Birmingham : 2.3 - Draw : 3.15 - Swansea : 2.7 - ] -> PREMATCH
+[ - Glenavon : 4.7 - Draw : 4 - Glentoran : 1.56 - ] -> PREMATCH
+[ - Stoke : 2.1 - Draw : 3.15 - Luton Town : 3.05 - ] -> PREMATCH
+[ - FCV Dender EH : 3.95 - Draw : 3.7 - Standard Liege : 1.72 - ] -> PREMATCH
+[ - Lierse Kempenzonen : 5.3 - Draw : 4.2 - Anderlecht : 1.42 - ] -> PREMATCH
+[ - MSK Deinze : 2.9 - Draw : 3.4 - Eupen : 2.15 - ] -> PREMATCH
+[ - Westerlo : 2.85 - Draw : 3.35 - Genk : 2.05 - ] -> PREMATCH
+[ - Lommel United : 3 - Draw : 3.3 - Zulte-Waregem : 2 - ] -> PREMATCH
+[ - Waasland-Beveren : 3.75 - Draw : 3.5 - Royal Antwerp FC : 1.74 - ] -> PREMATCH
+[ - Cercle Brugge : 1.52 - Draw : 3.9 - K. Beerschot V.A. : 4.9 - ] -> PREMATCH
+[ - Patro Maasmechelen : 16 - Draw : 7.25 - Club Brugge : 1.09 - ] -> PREMATCH
+[ - Sint Truidense : 1.11 - Draw : 6.75 - RFC Meux : 13.5 - ] -> PREMATCH
+[ - Francs Borains : 4.5 - Draw : 3.75 - O-H Leuven : 1.58 - ] -> PREMATCH
+[ - Kvv Thes Sport Tessenderlo : 3.7 - Draw : 3.55 - Oostende : 1.74 - ] -> PREMATCH
+[ - Racing White Daring Molenbeek : 2.65 - Draw : 3.25 - Kortrijk : 2.25 - ] -> PREMATCH
+[ - RFC Seraing : 3 - Draw : 3.4 - Sporting Charleroi : 2.05 - ] -> PREMATCH
+[ - Royal Cappellen FC : 20 - Draw : 13 - Union Saint-Gilloise : 1.01 - ] -> PREMATCH
+[ - FC Dessel Sport : 20 - Draw : 7.75 - Gent : 1.07 - ] -> PREMATCH
+[ - Wuhan Yangtze River : 2.95 - Draw : 3.3 - Guangzhou City : 2.1 - ] -> PREMATCH
+[ - Shanghai Port : 1.36 - Draw : 4.5 - Cangzhou Mighty Lions : 6.75 - ] -> PREMATCH
+[ - Meizhou Hakka FC : 3.05 - Draw : 3.2 - Henan Songshan Longmen : 2.15 - ] -> PREMATCH
+[ - Guangzhou FC : 6.75 - Draw : 4.2 - Zhejiang : 1.38 - ] -> PREMATCH
+[ - Beijing Guoan : 3.9 - Draw : 3.55 - Wuhan Three Towns FC : 1.76 - ] -> PREMATCH
+[ - Shenzhen FC : 2.5 - Draw : 3.25 - Dalian Yifang FC : 2.45 - ] -> PREMATCH
+[ - Leixoes SC : 2.6 - Draw : 3.05 - Sporting Farense : 2.4 - ] -> PREMATCH
+[ - FC Famalicao : 1.16 - Draw : 6 - Dumiense Cjpii Futebol Sad : 11 - ] -> PREMATCH
+[ - Varzim SC : 1.6 - Draw : 3.4 - Sao Joao Ver : 5 - ] -> PREMATCH
+[ - CA Pero Pinheiro : 4 - Draw : 3.25 - Vitoria de Setubal : 1.78 - ] -> PREMATCH
+[ - Casa Pia AC : 1.12 - Draw : 6.25 - Valadares Gaia FC : 15 - ] -> PREMATCH
+[ - Academico De Viseu FC : 1.18 - Draw : 5.6 - AD Camacha : 10.5 - ] -> PREMATCH
+[ - Vilaverdense : 1.72 - Draw : 3.3 - Oliveira Hospital : 4.2 - ] -> PREMATCH
+[ - Rabo De Peixe : 3.55 - Draw : 3.2 - AD Sanjoanense : 1.92 - ] -> PREMATCH
+[ - Nacional Madeira  : 2.65 - Draw : 3.1 - Tondela : 2.35 - ] -> PREMATCH
+[ - Belenenses : 1.21 - Draw : 5.1 - AD Machico : 9.5 - ] -> PREMATCH
+[ - FC Gil Vicente : 2.1 - Draw : 3.1 - Arouca : 3.2 - ] -> PREMATCH
+[ - SC Beira Mar : 2 - Draw : 3.2 - Pevidem SC : 3.25 - ] -> PREMATCH
+[ - Vitoria Guimaraes : 2 - Draw : 3.2 - FC Vizela : 3.2 - ] -> PREMATCH
+[ - Estoril : 7.75 - Draw : 4.8 - Benfica : 1.29 - ] -> PREMATCH
+[ - Linfield : 1.96 - Draw : 3.35 - Cliftonville : 3.4 - ] -> PREMATCH
+[ - SD Aucas : 1.76 - Draw : 3.35 - Barcelona SC : 3.55 - ] -> PREMATCH
+[ - Viktoria Plzen : 1.3 - Draw : 4.8 - Brno : 7.25 - ] -> PREMATCH
+[ - Sparta Prague : 1.64 - Draw : 3.75 - Slovacko : 4.2 - ] -> PREMATCH
+[ - Santa Fe : 1.8 - Draw : 3.25 - Deportivo Pereira : 4 - ] -> PREMATCH
+[ - Junior De Barranquilla : 2.25 - Draw : 2.95 - Millonarios  : 2.95 - ] -> PREMATCH
+[ - America De Cali : 2 - Draw : 3.1 - Independiente Medellin : 3.3 - ] -> PREMATCH
+[ - Pasto : 2.55 - Draw : 2.9 - Águilas Doradas : 2.6 - ] -> PREMATCH
+[ - Cerro Porteno : 1.18 - Draw : 5.6 - Resistencia FC : 12 - ] -> PREMATCH
+[ - 12 De Octubre De Itaugua : 3.35 - Draw : 3.25 - Club General Caballero Jlm : 1.92 - ] -> PREMATCH
+[ - Sol De America : 6.5 - Draw : 4.4 - Olimpia Asuncion : 1.36 - ] -> PREMATCH
+[ - Nacional Asuncion : 1.52 - Draw : 3.7 - Sportivo Ameliano : 5.2 - ] -> PREMATCH
+[ - Luzern : 2.3 - Draw : 3.3 - FC Basel : 2.65 - ] -> PREMATCH
+[ - Carrick Rangers : 1.48 - Draw : 4.2 - Portadown : 5.2 - ] -> PREMATCH
+[ - Coleraine : 2.8 - Draw : 3.45 - Crusaders : 2.15 - ] -> PREMATCH
+[ - Newry City AFC : 2.5 - Draw : 3.45 - Ballymena : 2.4 - ] -> PREMATCH
+[ - Östers IF : 2.55 - Draw : 3 - Varbergs Bois : 2.45 - ] -> PREMATCH
+[ - Leipzig : 4.6 - Draw : 4 - Manchester City : 1.66 - ] -> PREMATCH
+[ - Club Brugge : 3.35 - Draw : 3.4 - Benfica : 2.1 - ] -> PREMATCH
+[ - Liverpool : 2 - Draw : 3.6 - R. Madrid : 3.4 - ] -> PREMATCH
+[ - AC Milan : 2.45 - Draw : 3.2 - Tottenham : 2.85 - ] -> PREMATCH
+[ - Francfort : 3.1 - Draw : 3.55 - Napoli : 2.15 - ] -> PREMATCH
+[ - Dortmund : 2.75 - Draw : 3.35 - Chelsea : 2.45 - ] -> PREMATCH
+[ - Inter : 1.98 - Draw : 3.45 - FC Porto : 3.7 - ] -> PREMATCH
+[ - PSG : 2.25 - Draw : 3.55 - B. Munich : 2.9 - ] -> PREMATCH
+[ - Barcelona : 1.74 - Draw : 3.5 - Manchester United : 4 - ] -> PREMATCH
+[ - Juventus : 1.35 - Draw : 4.3 - Nantes : 7.25 - ] -> PREMATCH
+[ - Sporting : 1.52 - Draw : 3.95 - FC Midtjylland : 5 - ] -> PREMATCH
+[ - Shakhtar Donetsk : 2.7 - Draw : 3.25 - Rennes : 2.35 - ] -> PREMATCH
+[ - Ajax : 1.72 - Draw : 3.65 - Union Berlin : 4 - ] -> PREMATCH
+[ - Leverkusen : 1.92 - Draw : 3.4 - Monaco : 3.45 - ] -> PREMATCH
+[ - Sevilla : 2 - Draw : 3.35 - PSV : 3.25 - ] -> PREMATCH
+[ - RB Salzburg : 2.65 - Draw : 3.2 - AS Roma : 2.4 - ] -> PREMATCH
+[ - Brazil : 5 - Draw : 7 - France : 7.5 - ] -> PREMATCH
+[ - Netherlands : 3.25 - Draw : 3.25 - Italy : 3.5 - ] -> PREMATCH
+[ - Germany : 6 - Draw : 7.5 - England : 8 - ] -> PREMATCH
+[ - Burnley FC : 2.35 - Draw : 3.95 - Norwich City : 9.5 - ] -> PREMATCH
+[ - Bayern Munich : 1.05 - Draw : 20 - RB Leipzig : 50 - ] -> PREMATCH
+[ - Manchester City : 1.2 - Draw : 6 - Newcastle United : 50 - ] -> PREMATCH
+[ - Hamburger SV : 2.75 - Draw : 3.5 - SC Paderborn 07 : 9 - ] -> PREMATCH
+[ - Manchester City : 2.75 - Draw : 7.5 - Paris Saint-Germain : 10 - ] -> PREMATCH
+[ - Bayern Munich : 2.25 - Draw : 5.6 - RB Leipzig : 10 - ] -> PREMATCH
+[ - Celtic Glasgow : 1.12 - Draw : 5 - Aberdeen FC : 190 - ] -> PREMATCH
+[ - Manchester City : 3.75 - Draw : 8 - Arsenal FC : 10.5 - ] -> PREMATCH
+[ - Paris Saint-Germain : 1.01 - Draw : 50 - Stade Rennes : 100 - ] -> PREMATCH
+[ - SSC Napoli : 1.6 - Draw : 4.5 - Inter Milano : 9 - ] -> PREMATCH
+[ - FC Barcelona : 1.85 - Draw : 2.1 - Atletico Madrid : 50 - ] -> PREMATCH
+[ - Panathinaikos Athens : 1.78 - Draw : 3.05 - Olympiacos Piraeus : 3.05 - ] -> PREMATCH
+[ - Inter Milano : 4.4 - Draw : 4.7 - AC Milan : 4.9 - ] -> PREMATCH
+[ - Paris Saint-Germain : 1.5 - Draw : 10 - Olympique Marseille : 10 - ] -> PREMATCH
+[ - Young Boys Bern : 1.04 - Draw : 10 - Servette Geneva : 14.5 - ] -> PREMATCH
+[ - FC Porto : 2.1 - Draw : 2.6 - SC Braga : 10 - ] -> PREMATCH
+[ - FC Viktoria Plzen : 1.88 - Draw : 1.88 - Sparta Prague : 11.5 - ] -> PREMATCH
+[ - PFC Ludogorets 1945 Razgrad : 1.52 - Draw : 2.75 - PFC Levski Sofia : 17 - ] -> PREMATCH
+[ - Real Madrid : 4.2 - Draw : 4.4 - Atletico Madrid : 6.75 - ] -> PREMATCH
+[ - The New Saints FC : 1.01 - Draw : 8 - Bala Town FC : 50 - ] -> PREMATCH
+[ - Ajax Amsterdam : 1.5 - Draw : 2.7 - Feyenoord Rotterdam : 7.5 - ] -> PREMATCH
+[ - Slovan Bratislava : 1.21 - Draw : 5.3 - FC Spartak Trnava : 6 - ] -> PREMATCH
+[ - KRC Genk : 2.25 - Draw : 2.75 - Royal Antwerp FC : 4.7 - ] -> PREMATCH
+[ - Red Bull Salzburg : 1.06 - Draw : 5.1 - LASK : 14 - ] -> PREMATCH
+[ - Melbourne City FC : 2.55 - Draw : 4.1 - Western Sydney Wanderers : 6.25 - ] -> PREMATCH
+[ - Arsenal FC : 5 - Draw : 5.5 - Manchester United : 9 - ] -> PREMATCH
+[ - FC Porto : 3.6 - Draw : 4 - Sporting Lisbon : 4 - ] -> PREMATCH
